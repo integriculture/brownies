@@ -1,2 +1,2 @@
 # brownies
-Recipes for brownies
+Recipes for awesome brownies
