@@ -5,11 +5,12 @@ Recipes for awesome brownies
 
 
 Ingredient | Amount | Type  
-:--|--:  
+:-- | --: | --:
 Granulated sugar | 300g | Dry  
 Flour | 95g | Dry  
 Cocoa Powder | 85g | Dry  
 Sea Salt | 5g | Dry  
+Dark Chocolate (Diced or chips) | 400g | Dry
 Butter | 115g | Wet  
 Large Eggs, Beaten | 2 | Wet  
 White Rum | 60g | Wet  
